@@ -6,8 +6,8 @@
   "kind": "asset",
   "license": "Apache-2.0",
   "compat": ">=0.1",
-  "description": "Classifies audio into 500+ sound-event classes. Uses: highlight detection; sound tagging (speech / music / applause / laughter); auto-ducking cues; scene indexing.",
   "author": "azphalt",
+  "description": "Classifies audio into 500+ sound-event classes. Uses: highlight detection; sound tagging (speech / music / applause / laughter); auto-ducking cues; scene indexing.",
   "homepage": "https://github.com/HereLiesAz/azphalt-yamnet",
   "assets": [
     {
@@ -22,6 +22,5 @@
         "audio"
       ]
     }
-  ],
-  "files": {}
+  ]
 }
