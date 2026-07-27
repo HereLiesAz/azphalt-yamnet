@@ -4,7 +4,7 @@
   "name": "YAMNet",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Upstream-Unstated",
   "compat": ">=0.1",
   "description": "Classifies audio into 500+ sound-event classes. Uses: highlight detection; sound tagging (speech / music / applause / laughter); auto-ducking cues; scene indexing.",
   "author": "HereLiesAz",
